@@ -6,3 +6,9 @@
   ```
   brew install --cash alt-tab
   ```
+
+## Developer Productivity
+* DevUtils - developer tools for processing. fast & beautiful, works offline, and respects your data.
+  ```
+  brew install devutils
+  ```
