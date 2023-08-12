@@ -6,7 +6,7 @@
   ```
   brew install --cash alt-tab
   ```
-* Magnet - similar to Hammerspoon. Offers better control and less interferences than Hammersppon. Install Magnet from App Store.
+* Magnet - similar to Hammerspoon. Offers better control and less interferences than Hammersppon. Install Magnet from App Store (this is a paid app! it's worth the money)
 
 ## Display Management
 * Monitor Control - control brightness for multiple monitors. Great app.
@@ -15,6 +15,7 @@
 
   brew install MonitorControl 
   ```
+* Amphetamine - prevents Mac from sleeping based on different triggers. Install from App Store. 
 
 ## Developer Productivity
 * DevUtils - developer tools for processing. fast & beautiful, works offline, and respects your data.
